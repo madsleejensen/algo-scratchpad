@@ -1,6 +1,8 @@
 input = [3,2,5,1,4]
 
 """
+https://www.geeksforgeeks.org/bubble-sort/
+
 O(n^2)
 
 1: [3,2,5,1,4]

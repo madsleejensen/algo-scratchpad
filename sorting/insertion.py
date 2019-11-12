@@ -1,6 +1,8 @@
 input = [3,2,4,1,5]
 
 """
+https://www.geeksforgeeks.org/insertion-sort/
+
 O(n^2)
 
 1: [3,2,4,1,5]
